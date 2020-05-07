@@ -3,6 +3,7 @@
 #This is a funny game.
 # Play this game if you get bored.
 # This is my favorite game.
+#I want to commit.
 import curses
 from curses import KEY_RIGHT, KEY_LEFT, KEY_UP, KEY_DOWN
 from random import randint
